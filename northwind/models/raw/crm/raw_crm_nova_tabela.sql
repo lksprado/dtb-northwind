@@ -1,0 +1,1 @@
+SELECT * FROM northwind.nova_tabela
